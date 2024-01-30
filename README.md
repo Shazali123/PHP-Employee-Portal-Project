@@ -1,2 +1,2 @@
 # PHP-Employee-Portal-Project
-PHP Employee portal.
+PHP Employee portal with database.
